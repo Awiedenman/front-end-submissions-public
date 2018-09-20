@@ -27,27 +27,27 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Node Server Tutorial](https://github.com/andrew-t-james/mod4-pre-work)
 * [Express Tutorial](https://github.com/andrew-t-james/mod4-pre-work) - Complete through 4
 * [Promise Practice Exercises](https://github.com/andrew-t-james/mod4-pre-work)
-* [Submitted in a DM to Robbie](https://www.youtube.com/watch?v=xfr64zoBTAQ)
-* [Pattern Party Repo](https://github.com/andrew-t-james/pattern-party)
-* [Pattern Party GitHub Pages](https://pattryn-party-2018.surge.sh/)
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
 
 ### Arram Mandel
 
 * [Node Server Tutorial](https://github.com/airum82/mod4-homework/tree/master/node-lesson)
 * [Express Tutorial](https://github.com/airum82/mod4-homework/tree/master/express-lesson) - What additional items did you work on? 1, 2 and 4
 * [Promise Practice Exercises](https://github.com/airum82/mod4-homework/tree/master/prework-promise)
-* [House of Vars Blog Post](https://medium.com/@airum82/first-time-open-source-contribution-22644f0c8169)
-* [Pattern Party Repo](https://github.com/airum82/pattern-party)
-* [Pattern Party GitHub Pages](https://airum82.github.io/pattern-party/)
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
 
 ### Austin Wiedenman
 
 * [Node Server Tutorial](https://gist.github.com/Awiedenman/d4c80d19c071437876fdee248e58b7eb)
 * [Express Tutorial](https://github.com/Awiedenman/express-lesson) - I worked on adding a button that changed the words on the screen on click, I added a response for 404, and I attempted to get a page with sunset pictures to show on another route.
 * [Promise Practice Exercises](https://gist.github.com/Awiedenman/627d37e52a4cda3b4fcafd136af83ad3)
-* [House of Vars Blog Post]()
-* [Pattern Party Repo]()
-* [Pattern Party GitHub Pages]()
+* [House of Vars Blog Post](https://medium.com/@awiedenman/my-experience-contributing-to-an-open-source-project-88c54c229b08)
+* [Pattern Party Repo](https://github.com/Awiedenman/pattern-party)
+* [Pattern Party GitHub Pages](https://awiedenman.github.io/pattern-party/.)
 
 ### David Dunn
 
@@ -82,9 +82,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Express Tutorial](https://github.com/marikaross/express-practice) - What additional items did you work on?
 * Items 1, 2, 3
 * [Promise Practice Exercises](https://repl.it/@marikaross/Promise-Practice)
-* [House of Vars Blog Post](https://medium.com/@marika.ross/i-had-never-given-much-thought-to-the-distinction-between-being-a-big-idea-person-versus-one-who-is-32e0a7ec14eb)
-* [Pattern Party Repo](https://github.com/marikaross/Pattrn-Party)
-* [Pattern Party GitHub Pages](https://marikaross.github.io/Pattrn-Party/)
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
 
 ### Quin Hill
 
@@ -98,13 +98,13 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 ### Ryan Harrington
 
 * [Node Server Tutorial](https://gist.github.com/RyanH5/ade02a4f0c48fb08775f58a21ccd9f4d)
-* [Express Tutorial](https://github.com/RyanH5/express-tutorial)
+* [Express Tutorial](https://github.com/RyanH5/express-tutorial) 
   - What additional items did you work on?
     (1,2,4)
 * [Promise Practice Exercises](https://gist.github.com/RyanH5/9d978fde18d798e964c1474e6c4e120d)
-* [House of Vars Blog Post](https://gist.github.com/RyanH5/d8e1fd124142e0df335b58668755ac5f)
-* [Pattern Party Repo](https://github.com/RyanH5/Pattrn-Party)
-* [Pattern Party GitHub Pages](https://ryanh5.github.io/Pattrn-Party/)
+* [House of Vars Blog Post](https://medium.com/@marika.ross/i-had-never-given-much-thought-to-the-distinction-between-being-a-big-idea-person-versus-one-who-is-32e0a7ec14eb)
+* [Pattern Party Repo](https://github.com/marikaross/Pattrn-Party)
+* [Pattern Party GitHub Pages](https://marikaross.github.io/Pattrn-Party/)
 
 ### Spenser Leighton
 
